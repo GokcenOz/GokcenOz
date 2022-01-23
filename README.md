@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Gokcen!
-- 👀 I’m interested in Coding
-- 💞️ I’m looking to collaborate on IT Projects
-- 📫 How to reach me gokcenucarozsoy@gmail.com
+<img src="https://github.com/GokcenOz/GokcenOz/blob/main/1632998646795.jpg?raw=true">
+
+<h1 align="center">Hi, I'm Gökcen Özsoy</h1>
