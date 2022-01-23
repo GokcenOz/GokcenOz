@@ -1,4 +1,4 @@
-<img src="https://github.com/GokcenOz/GokcenOz/blob/main/images%20(1).jpg?raw=true">
+<img src="https://github.com/GokcenOz/GokcenOz/blob/main/stock-coding.jpg?raw=true">
 
 <h1 align="center">Hi, 👋 I'm Gökcen Özsoy</h1>
 
