@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Gokcen Ozsoy</h1>
 <h3 align="center">QA Test Automation Engineer</h3>
 
-- 🔭 I’m currently working on **Student Management App**
+- 🔭 I’m currently working on **Banking Project**
 
-- 🌱 I’m currently learning **Java Spring Boot Framework**
+- 🌱 I’m currently learning **Java Spring Boot Framework and Python**
 
 - 💬 Ask me about **Selenium Web Driver,Cucumber,Java,TestNG,Junit,Jira,SQL**
 
