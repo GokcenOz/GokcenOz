@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Gokcen Ozsoy</h1>
 <h3 align="center">QA Test Automation Engineer</h3>
 
-- 🔭 I’m currently working on **Banking Project**
+- 🔭 I’m currently working on **Payment Project**
 
-- 🌱 I’m currently learning **Java Spring Boot Framework and Python**
+- 🌱 I’m currently learning **TypeScript, Python**
 
-- 💬 Ask me about **Selenium Web Driver,Cucumber,Java,TestNG,Junit,Jira,SQL**
+- 💬 Ask me about **Selenium Web Driver,Cucumber,Java,TestNG,Junit,Jira,SQL,Appium,Playwright**
 
 - 📫 How to reach me **gokcenucarozsoy@gmail.com**
 
